@@ -2,7 +2,7 @@
 
 A heart disease prediction model with SHAP and LIME explanations, deployed as an interactive Streamlit app.
 
-### 🔗 [Try the Live App](https://xai-healthcare-fyp-m9dqvwsttmatssww2gjsao.streamlit.app)
+### 🔗 [Try the Live App][(https://heart-disease-xai.streamlit.app)
 
 ## Overview
 This project predicts the presence of heart disease from patient clinical data using machine learning (Random Forest), and explains **why** each prediction was made using SHAP and LIME — making the model's decisions transparent and interpretable.
